@@ -1,0 +1,7 @@
+---
+applications:
+- name: nodejs-sample-1.0.0
+  memory: 256M
+  instances: 1
+  disk_quota: 2G 
+  buildpack: nodejs_buildpack_1607
